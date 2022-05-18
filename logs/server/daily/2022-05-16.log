@@ -1,0 +1,38 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T03:20:02.290Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T03:20:05.597Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T03:28:56.815Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T03:28:59.608Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T03:45:28.340Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T03:45:28.361Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token n in JSON at position 7
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-16T03:54:26.715Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T04:00:45.296Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T04:00:45.317Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T13:01:22.752Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T13:01:22.778Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T14:29:40.385Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T14:29:40.412Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T14:29:43.137Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T14:29:43.162Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T14:29:59.870Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T14:29:59.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T14:42:44.006Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T14:42:44.029Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T15:11:31.796Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T15:11:31.822Z"}

@@ -1,0 +1,186 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T03:20:02.290Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T03:20:05.597Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T03:28:56.815Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T03:28:59.608Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T03:45:28.340Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T03:45:28.361Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token n in JSON at position 7
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-16T03:54:26.715Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T04:00:45.296Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T04:00:45.317Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T13:01:22.752Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T13:01:22.778Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T14:29:40.385Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T14:29:40.412Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T14:29:43.137Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T14:29:43.162Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T14:29:59.870Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T14:29:59.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T14:42:44.006Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T14:42:44.029Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-16T15:11:31.796Z"}
+info: Connected to the database. {"timestamp":"2022-05-16T15:11:31.822Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:04:28.797Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:04:28.826Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:05:40.626Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:05:40.664Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:05:49.400Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:05:49.425Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:05:55.403Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:05:55.452Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:05:59.999Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:06:00.055Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:06:04.869Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:06:04.901Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:11:41.527Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:11:41.564Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:11:51.223Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:11:51.254Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:11:59.220Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:11:59.269Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:12:07.781Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:12:07.830Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:30:09.517Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:30:09.544Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:45:19.110Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:45:19.137Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:45:35.987Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:45:36.023Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:47:32.102Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:47:32.128Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T03:47:42.089Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T03:47:42.118Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T09:06:17.768Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T09:06:17.794Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T09:06:54.649Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T09:06:54.673Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T09:10:09.308Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T09:10:09.334Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T09:33:05.463Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T09:33:05.486Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-17T09:35:59.829Z"}
+info: Connected to the database. {"timestamp":"2022-05-17T09:35:59.854Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "getall" (type string) at path "_id" for model "User"
+    at model.Query.exec (D:\project\practice-project\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\project\practice-project\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/getall 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2022-05-17T09:37:12.534Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-18T04:57:47.120Z"}
+info: Connected to the database. {"timestamp":"2022-05-18T04:57:47.151Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 20
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/62847d41798b02153c7f46e6 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:01:11.716Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 20
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/62847d41798b02153c7f46e6 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:01:27.066Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 20
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/62847d41798b02153c7f46e6 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:01:36.966Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 22
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:06:16.199Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-18T05:09:44.879Z"}
+info: Connected to the database. {"timestamp":"2022-05-18T05:09:44.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-18T05:11:11.295Z"}
+info: Connected to the database. {"timestamp":"2022-05-18T05:11:11.313Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-18T05:14:01.571Z"}
+info: Connected to the database. {"timestamp":"2022-05-18T05:14:01.596Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-18T05:17:37.373Z"}
+info: Connected to the database. {"timestamp":"2022-05-18T05:17:37.395Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "alldata" (type string) at path "_id" for model "User"
+    at model.Query.exec (D:\project\practice-project\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\project\practice-project\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/alldata 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:19:22.207Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-18T05:22:18.920Z"}
+info: Connected to the database. {"timestamp":"2022-05-18T05:22:18.940Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-18T05:23:52.775Z"}
+info: Connected to the database. {"timestamp":"2022-05-18T05:23:52.801Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-18T05:24:50.534Z"}
+info: Connected to the database. {"timestamp":"2022-05-18T05:24:50.558Z"}

@@ -1,0 +1,110 @@
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token n in JSON at position 7
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-16T03:54:26.715Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "getall" (type string) at path "_id" for model "User"
+    at model.Query.exec (D:\project\practice-project\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\project\practice-project\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/getall 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2022-05-17T09:37:12.534Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 20
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/62847d41798b02153c7f46e6 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:01:11.716Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 20
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/62847d41798b02153c7f46e6 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:01:27.066Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 20
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/62847d41798b02153c7f46e6 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:01:36.966Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 22
+    at JSON.parse (<anonymous>)
+    at parse (D:\project\practice-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\project\practice-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\project\practice-project\node_modules\raw-body\index.js:231:16)
+    at done (D:\project\practice-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\project\practice-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:06:16.199Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "alldata" (type string) at path "_id" for model "User"
+    at model.Query.exec (D:\project\practice-project\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\project\practice-project\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/alldata 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2022-05-18T05:19:22.207Z"}
